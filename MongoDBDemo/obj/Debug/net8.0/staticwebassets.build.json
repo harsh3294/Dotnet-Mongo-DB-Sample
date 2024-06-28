@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E6YaSZKvrWE41hgN0FT0fa+kiRvPxslrr6Gg6mMcBlY=",
+  "Source": "MongoDBDemo",
+  "BasePath": "_content/MongoDBDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
